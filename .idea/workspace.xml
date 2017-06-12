@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="927bd12c-5ec4-478b-a5cc-6803568c192e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="Prodavachnik.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -208,12 +206,20 @@
       <option name="presentableId" value="Default" />
       <updated>1497182484998</updated>
       <workItem from="1497182490379" duration="211000" />
-      <workItem from="1497276585462" duration="335000" />
+      <workItem from="1497276585462" duration="395000" />
     </task>
+    <task id="LOCAL-00001" summary="1st commit">
+      <created>1497276933359</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1497276933359</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="546000" />
+    <option name="totallyTimeSpent" value="606000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="31" y="8" width="1351" height="808" extended-state="0" />
@@ -252,7 +258,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="1st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
